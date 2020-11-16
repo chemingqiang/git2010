@@ -68,7 +68,15 @@ S
 3.创建分支：git branch 分支名
 4.切换分支：git checkout   分支名
 5.合并分    git merge 分支名
+6.删除分支   git branch -d 分支名
+7.git pull origin dev 更新代码到本地，自g合并到当前分支
 
+## 添加协作者
+
+## git忽略列表
+1.创建文件：.getignore
+2.忽略文件列表
+3.再忽略列表中列出不需要提交到把版本库的文件及目录
 
 
 
