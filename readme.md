@@ -50,4 +50,5 @@ S
 4.git remote -v 查看本地仓库所关联的远程仓库地址
 5.git push -u origin master   第一次执行
  git push 把本地仓库推送到远程仓库
- -u origin master 摄制默认提交master分支到origin
+ -u原始母版摄制预设提交主母到原点
+113434644
