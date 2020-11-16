@@ -50,5 +50,35 @@ S
 4.git remote -v 查看本地仓库所关联的远程仓库地址
 5.git push -u origin master   第一次执行
  git push 把本地仓库推送到远程仓库
- -u原始母版摄制预设提交主母到原点
-113434644
+ -u origin master 摄制默认提交master分支到origin
+
+
+## 下载项目到本地
+1.克隆项目:git clone 项目远程仓库系统  整个版本库克隆下来
+2.git clone 适用于本地没有该项目，直接从远程下载到本地
+3.如果本地有该项目，应该直接更新本地  git pull
+4.养成先工作区的提交到本地仓库再更新远程到本地
+5.git fetch  将远程更新到本地
+
+
+
+## 分支操作
+1.查看当前仓库所有分支：git branch
+2.当前分支前面带有星号*
+3.创建分支：git branch 分支名
+4.切换分支：git checkout   分支名
+5.合并分    git merge 分支名
+
+
+
+
+
+
+
+
+
+
+
+
+
+
