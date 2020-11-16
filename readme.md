@@ -41,3 +41,4 @@
 1.命令git status 查看当前目录下操作状态
 2.git log 查看日志
 3.git reflog 查看简版日志
+4.
